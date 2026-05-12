@@ -180,6 +180,7 @@ packaging
 pandas
 pandocfilters
 parso
+pdm
 pdf2image
 pdfminer.six
 pi_heif
